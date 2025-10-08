@@ -34,7 +34,7 @@ Each table is connected using **relationships** to ensure that filters, slicers,
 
 The Power BI model uses **1-to-many (1:*)** relationships to connect dimension tables (like *Students* and *Date Table*) with fact tables (like *Zoom Attendance* and *Labs & Quizzes*).  
 
-![Model](<images/Model view.png>)
+![Model](<images/Model_view.png>)
 
 Here’s what each relationship means:
 
